@@ -1,0 +1,12 @@
+{
+  "time": {
+    "simple": 26,
+    "normal": 150,
+    "hard": 900
+  },
+  "click": {
+    "simple": 52,
+    "normal": 140,
+    "hard": 278
+  }
+}
